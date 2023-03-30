@@ -1,0 +1,15 @@
+.blind{
+    position: absolute;
+    width: 1px;height: 1px;
+    overflow: hidden;
+    margin: -1px;
+    clip: rect(0 0 0 0);
+}
+
+.containar{
+    /* overflow: hidden; */
+}
+
+.wrapper{
+    min-width: 1300px;
+}
